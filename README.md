@@ -1,6 +1,6 @@
 # a8-maccarlton25
 
-Conway's Game of Life 
+Java implementation of Conway's Game of Life (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) for COMP401 at UNC-CH
 
 Features:
   - Adjust cell birth and death thresholds 
@@ -10,4 +10,5 @@ Features:
   - Advance game state
   - Automatically run/stop
   - Ability to adjust the delay between automatic game advances in run/stop
+ 
  
